@@ -1,5 +1,5 @@
 # Rishon
-Rishon meaning «First» in Hebraic was initial started as a Semi-annual C-Sharp Programming work on my course then was changed for another but the development of is continues
+Rishon meaning «First» in Hebraic was initial started as a Semi-annual C-Sharp Programming work on my course then was changed for another but the development of it continues...
 ## Tecnologies
 On this project I've used a some tools just to name a few
 ### Database
